@@ -1,0 +1,273 @@
+{
+ "rev_9m": {
+  "value": 18.17,
+  "unit": "亿元",
+  "src": "https://www.thepaper.cn/newsDetail_forward_34352546",
+  "quote": "前三季度营业收入18.17亿元，同比增长55.71%",
+  "accessed": "2026-10-29"
+ },
+ "rev_9m_yoy": {
+  "value": 0.5571,
+  "unit": "ratio",
+  "src": "https://www.thepaper.cn/newsDetail_forward_34352546",
+  "quote": "同比增长55.71%",
+  "accessed": "2026-10-29"
+ },
+ "np_9m": {
+  "value": 3.87,
+  "unit": "亿元",
+  "src": "https://www.thepaper.cn/newsDetail_forward_34352546",
+  "quote": "归母净利润3.87亿元，同比增长270.54%",
+  "accessed": "2026-10-29"
+ },
+ "np_9m_yoy": {
+  "value": 2.7054,
+  "unit": "ratio",
+  "src": "https://www.thepaper.cn/newsDetail_forward_34352546",
+  "quote": "同比增长270.54%",
+  "accessed": "2026-10-29"
+ },
+ "kf_9m": {
+  "value": 3.49,
+  "unit": "亿元",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "扣非净利润3.49亿元，同比下降18.78%",
+  "accessed": "2026-10-29"
+ },
+ "kf_9m_yoy": {
+  "value": -0.1878,
+  "unit": "ratio",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "同比下降18.78%",
+  "accessed": "2026-10-29"
+ },
+ "q3_rev_yoy": {
+  "value": 0.6993,
+  "unit": "ratio",
+  "src": "https://finance.sina.com.cn/stock/estate/integration/2026-10-29/doc-iniwvftn3145497.shtml",
+  "quote": "营业收入6.65亿元，同比增长69.93%",
+  "accessed": "2026-10-29"
+ },
+ "q3_kf_yoy": {
+  "value": -0.1742,
+  "unit": "ratio",
+  "src": "https://finance.sina.com.cn/stock/estate/integration/2026-10-29/doc-iniwvftn3145497.shtml",
+  "quote": "扣非净利润1.05亿元，同比下降17.42%",
+  "accessed": "2026-10-29"
+ },
+ "rd_9m": {
+  "value": 2.63,
+  "unit": "亿元",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "研发投入2.63亿元，研发费用同比增长191.48%，占营收14.47%",
+  "accessed": "2026-10-29"
+ },
+ "rd_9m_yoy": {
+  "value": 1.9148,
+  "unit": "ratio",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "研发费用同比增长191.48%",
+  "accessed": "2026-10-29"
+ },
+ "sales_9m_yoy": {
+  "value": 2.024,
+  "unit": "ratio",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "销售费用2.30亿元，同比+202.4%",
+  "accessed": "2026-10-29"
+ },
+ "gm_9m": {
+  "value": 0.5402,
+  "unit": "ratio",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "毛利率从59.75%降至54.02%",
+  "accessed": "2026-10-29"
+ },
+ "gm_9m_prev": {
+  "value": 0.5975,
+  "unit": "ratio",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "毛利率从59.75%降至54.02%",
+  "accessed": "2026-10-29"
+ },
+ "mcap": {
+  "value": 2815,
+  "unit": "亿元",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "宇树的最新市值也来到了2815亿元",
+  "accessed": "2026-10-29",
+  "note": "文章发布于2026-10-28；文案按「截至10月28日」使用"
+ },
+ "rev_2025": {
+  "value": 16.99,
+  "unit": "亿元",
+  "src": "https://stock.10jqka.com.cn/20260602/c677142289.shtml",
+  "quote": "2023年—2025年公司实现营业收入分别为1.59亿元、3.93亿元、16.99亿元",
+  "accessed": "2026-10-29",
+  "note": "另有报道写作17.08亿元；按财务表 169,926.93 万元取 16.99"
+ },
+ "hum_rev_2023": {
+  "value": 0.029671,
+  "unit": "亿元",
+  "src": "https://finance.eastmoney.com/a/202606023757575816.html",
+  "quote": "来自人形机器人的营业收入分别为296.71万元、1.07亿元及8.68亿元",
+  "accessed": "2026-10-29"
+ },
+ "hum_rev_2024": {
+  "value": 1.07,
+  "unit": "亿元",
+  "src": "https://finance.eastmoney.com/a/202606023757575816.html",
+  "quote": "来自人形机器人的营业收入分别为296.71万元、1.07亿元及8.68亿元",
+  "accessed": "2026-10-29"
+ },
+ "hum_rev_2025": {
+  "value": 8.68,
+  "unit": "亿元",
+  "src": "https://finance.eastmoney.com/a/202606023757575816.html",
+  "quote": "2025年，宇树科技来自人形机器人的营业收入反超四足机器人的营业收入",
+  "accessed": "2026-10-29"
+ },
+ "hum_ship_2025": {
+  "value": 5500,
+  "unit": "台",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "2025年人形机器人实际交付终端客户的出货量超5500台",
+  "accessed": "2026-10-29"
+ },
+ "edu_share_9m2025": {
+  "value": 0.7,
+  "unit": "ratio(lower bound)",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "超七成的人形机器人营收来自科研教育领域",
+  "accessed": "2026-10-29",
+  "note": "2025年前三季度；工业、商业场景不到一成"
+ },
+ "indcom_share_9m2025": {
+  "value": 0.1,
+  "unit": "ratio(upper bound)",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "工业、商业场景不到一成",
+  "accessed": "2026-10-29"
+ },
+ "top5_share": {
+  "value": 0.1209,
+  "unit": "ratio",
+  "src": "https://www.huxiu.com/article/4901189.html",
+  "quote": "前五大客户合计销售仅占营收12.09%",
+  "accessed": "2026-10-29"
+ },
+ "quad_cum": {
+  "value": 30000,
+  "unit": "台(lower bound)",
+  "src": "https://www.cls.cn/detail/2319719",
+  "quote": "宇树科技四足机器人报告期内累计销量超三万台",
+  "accessed": "2026-10-29"
+ },
+ "overseas_9m2025": {
+  "value": 4.53,
+  "unit": "亿元",
+  "src": "https://www.cls.cn/detail/2319719",
+  "quote": "其中境内收入7.02亿元，境外收入达4.53亿元（2025年1-9月）",
+  "accessed": "2026-10-29"
+ },
+ "domestic_9m2025": {
+  "value": 7.02,
+  "unit": "亿元",
+  "src": "https://www.cls.cn/detail/2319719",
+  "quote": "其中境内收入7.02亿元，境外收入达4.53亿元（2025年1-9月）",
+  "accessed": "2026-10-29"
+ },
+ "components": {
+  "value": [
+   "高性能电机",
+   "减速器",
+   "灵巧手",
+   "激光雷达"
+  ],
+  "unit": "list",
+  "src": "https://www.cls.cn/detail/2319719",
+  "quote": "以及高性能电机、减速器、灵巧手、激光雷达及各类传感器等机器人核心部组件",
+  "accessed": "2026-10-29"
+ },
+ "h1_global_ship": {
+  "value": 22000,
+  "unit": "台(approx)",
+  "src": "https://finance.sina.com.cn/stock/estate/integration/2026-10-29/doc-iniwvftn3145497.shtml",
+  "quote": "上半年全球人形机器人出货量约2.2万台，同比增长近300%",
+  "accessed": "2026-10-29",
+  "note": "据机构在2026年8月发布的报告（新浪转引，未具名）"
+ },
+ "h1_agibot": {
+  "value": 9700,
+  "unit": "台",
+  "src": "https://finance.sina.com.cn/stock/estate/integration/2026-10-29/doc-iniwvftn3145497.shtml",
+  "quote": "其中智元以9700台、超43%的份额居首",
+  "accessed": "2026-10-29"
+ },
+ "h1_unitree": {
+  "value": 7000,
+  "unit": "台(lower bound)",
+  "src": "https://finance.sina.com.cn/stock/estate/integration/2026-10-29/doc-iniwvftn3145497.shtml",
+  "quote": "宇树出货超7000台、占约31%，位居第二",
+  "accessed": "2026-10-29"
+ },
+ "h1_top5_share": {
+  "value": 0.86,
+  "unit": "ratio(approx)",
+  "src": "https://finance.sina.com.cn/stock/estate/integration/2026-10-29/doc-iniwvftn3145497.shtml",
+  "quote": "出货量前五名均为中国厂商、合计份额约86%",
+  "accessed": "2026-10-29"
+ },
+ "avg_rev_per_hum_wan": {
+  "value": 15.78,
+  "unit": "万元/台(upper bound)",
+  "src": "derived",
+  "formula": "hum_rev_2025(8.68亿) ÷ hum_ship_2025(超5500台) → 每台不到15.8万元（含配件、服务等收入，仅粗算）"
+ },
+ "overseas_share_9m2025": {
+  "value": 0.3922,
+  "unit": "ratio",
+  "src": "derived",
+  "formula": "overseas ÷ (overseas + domestic) = 4.53 ÷ 11.55"
+ },
+ "hum_growth_2025": {
+  "value": 8.11,
+  "unit": "x",
+  "src": "derived",
+  "formula": "hum_rev_2025 ÷ hum_rev_2024"
+ },
+ "assume_rev_2026": {
+  "value": 25,
+  "unit": "亿元",
+  "src": "copy",
+  "quote": "假设今年全年营收达到25亿元",
+  "accessed": "2026-10-29",
+  "note": "文案假设，非预测"
+ },
+ "assume_price_wan": {
+  "value": 10,
+  "unit": "万元/台",
+  "src": "copy",
+  "quote": "假设一台人形机器人平均售价10万元",
+  "accessed": "2026-10-29",
+  "note": "文案假设"
+ },
+ "mcap_over_assume": {
+  "value": 112.6,
+  "unit": "x",
+  "src": "derived",
+  "formula": "mcap ÷ assume_rev_2026 = 2815 ÷ 25"
+ },
+ "mcap_over_100": {
+  "value": 28.15,
+  "unit": "x",
+  "src": "derived",
+  "formula": "mcap ÷ 100亿（假设10万台×10万元）"
+ },
+ "mcap_over_rev2025": {
+  "value": 165.7,
+  "unit": "x",
+  "src": "derived",
+  "formula": "mcap ÷ rev_2025"
+ }
+}
