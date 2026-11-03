@@ -4,8 +4,8 @@
 
 ## 下载（不用登录）
 
-- [视频 robot-explainer.mp4](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v1/robot-explainer.mp4)（约 165 MB）
-- [字幕 robot-explainer.srt](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v1/robot-explainer.srt)
+- [视频 robot-explainer.mp4](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v2/robot-explainer.mp4)（约 161 MB）
+- [字幕 robot-explainer.srt](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v2/robot-explainer.srt)
 
 ## 说明
 
@@ -13,7 +13,7 @@
 - 数据来自公司财报、招股书和公开报道，以公司公告为准。来源见 [data/numbers.json](data/numbers.json)。
 - 机器人和背景视频由 AI 生成，只是示意，不代表宇树的产品或真实场景。
 - 口播为出镜者原声，画面做了清晰度增强。
-- 产品照片来自宇树科技新闻稿（PR Newswire），版权归原权利人。
+- 产品照片来自宇树科技新闻稿（PR Newswire），原文截图来自澎湃新闻和虎嗅，版权归原权利人。
 
 ## 制作
 
