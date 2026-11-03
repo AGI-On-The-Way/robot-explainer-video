@@ -6,7 +6,7 @@
 
 | 视频 | 时长 | 下载 |
 |---|---|---|
-| 机器人卖给了谁？（数字人版） | 4 分 18 秒 | [视频 robot-buyers.mp4](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v3/robot-buyers.mp4)（约 165 MB）· [字幕](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v3/robot-buyers.srt) |
+| 机器人卖给了谁？（数字人版） | 4 分 18 秒 | [视频 robot-buyers.mp4](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v3/robot-buyers.mp4)（约 160 MB）· [字幕](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v3/robot-buyers.srt) |
 | 机器人爆发，还是预期先行？ | 4 分 46 秒 | [视频 robot-explainer.mp4](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v2/robot-explainer.mp4)（约 161 MB）· [字幕](https://github.com/AGI-On-The-Way/robot-explainer-video/releases/download/v2/robot-explainer.srt) |
 
 ## 说明
