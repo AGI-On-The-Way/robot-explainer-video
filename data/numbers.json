@@ -218,6 +218,44 @@
   "quote": "出货量前五名均为中国厂商、合计份额约86%",
   "accessed": "2026-10-29"
  },
+ "gala_2025_robots": {
+  "value": 16,
+  "unit": "个",
+  "src": "https://www.bjnews.com.cn/detail/1738144516168896.html",
+  "quote": "节目开始，16个人形机器人整齐排列",
+  "accessed": "2026-11-03",
+  "note": "2025年春晚《秧BOT》，宇树H1；新京报2025-01-29"
+ },
+ "xdog_rd_wan": {
+  "value": 2,
+  "unit": "万元(upper bound)",
+  "src": "https://www.huxiu.com/article/4882011.html",
+  "quote": "三年间，他在这台机器上的研发投入不到2万元。",
+  "accessed": "2026-11-03",
+  "note": "虎嗅2026-08-10"
+ },
+ "founded": {
+  "value": 2016,
+  "unit": "年",
+  "src": "https://www.huxiu.com/article/4882011.html",
+  "quote": "2016年8月，宇树科技在杭州成立，他26岁。",
+  "accessed": "2026-11-03"
+ },
+ "founder_age_2016": {
+  "value": 26,
+  "unit": "岁",
+  "src": "https://www.huxiu.com/article/4882011.html",
+  "quote": "2016年8月，宇树科技在杭州成立，他26岁。",
+  "accessed": "2026-11-03"
+ },
+ "np_reason": {
+  "value": "上年一次性确认股份支付",
+  "unit": "text",
+  "src": "https://news.bjd.com.cn/2026/10/28/12010191.shtml",
+  "quote": "主要系公司年初至报告期末收入增长带动毛利额增长，以及上年一次性确认较大金额股份支付费用所致",
+  "accessed": "2026-11-03",
+  "note": "公司对归母净利润增长的解释；京报网2026-10-28"
+ },
  "avg_rev_per_hum_wan": {
   "value": 15.78,
   "unit": "万元/台(upper bound)",
